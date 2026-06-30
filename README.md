@@ -37,3 +37,13 @@ OPN Chain is a high-performance EVM-compatible L1 blockchain (Chain ID 984) buil
 - Learn: https://learn.iopn.tech
 
 **Status**: Actively testing and building on OPN Testnet.
+## Smart Contracts
+
+Deployed a simple HelloWorld contract on OPN Testnet (EVM compatible, Chain ID 984).
+
+**Contract Source** → `contracts/HelloWorld.sol`
+
+## Next Steps
+- Deploy using Remix IDE
+- Test interactions
+- Explore more complex DeFi / NFT contracts on OPN
